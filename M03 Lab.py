@@ -1,3 +1,7 @@
+# Jordan Bullard
+# Inheriting Classes
+# This app will take the inputted car values, store, and print them.
+
 class Vehicle:
     def __init__(self, vehicleType):
         self.vehicleType = vehicleType
